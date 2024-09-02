@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Alic-Li&#39;s Blog</title>
-        <link>//localhost:37355/en/tags/</link>
+        <link>//localhost:1313/en/tags/</link>
         <description>Recent content in Tags on Alic-Li&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Alic li</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:37355/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Css</title>
-        <link>//localhost:37355/en/tags/css/</link>
+        <link>//localhost:1313/en/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/tags/css/</guid>
+        <guid>//localhost:1313/en/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>//localhost:37355/en/tags/html/</link>
+        <link>//localhost:1313/en/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/tags/html/</guid>
+        <guid>//localhost:1313/en/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>//localhost:37355/en/tags/markdown/</link>
+        <link>//localhost:1313/en/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/tags/markdown/</guid>
+        <guid>//localhost:1313/en/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>//localhost:37355/en/tags/themes/</link>
+        <link>//localhost:1313/en/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/tags/themes/</guid>
+        <guid>//localhost:1313/en/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>//localhost:37355/en/tags/privacy/</link>
+        <link>//localhost:1313/en/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/tags/privacy/</guid>
+        <guid>//localhost:1313/en/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>//localhost:37355/en/tags/shortcodes/</link>
+        <link>//localhost:1313/en/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/tags/shortcodes/</guid>
+        <guid>//localhost:1313/en/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>//localhost:37355/en/tags/tag-with-whitespaces/</link>
+        <link>//localhost:1313/en/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/tags/tag-with-whitespaces/</guid>
+        <guid>//localhost:1313/en/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>//localhost:37355/en/tags/text/</link>
+        <link>//localhost:1313/en/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/tags/text/</guid>
+        <guid>//localhost:1313/en/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>//localhost:37355/en/tags/emoji/</link>
+        <link>//localhost:1313/en/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/tags/emoji/</guid>
+        <guid>//localhost:1313/en/tags/emoji/</guid>
         <description></description>
         </item>
         

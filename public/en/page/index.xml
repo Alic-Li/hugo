@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Alic-Li&#39;s Blog</title>
-        <link>//localhost:37355/en/page/</link>
+        <link>//localhost:1313/en/page/</link>
         <description>Recent content in Pages on Alic-Li&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Alic li</copyright>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:37355/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>archives</title>
-        <link>//localhost:37355/en/archives/</link>
+        <link>//localhost:1313/en/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/archives/</guid>
+        <guid>//localhost:1313/en/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>//localhost:37355/en/about/</link>
+        <link>//localhost:1313/en/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/about/</guid>
+        <guid>//localhost:1313/en/about/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Links</title>
-        <link>//localhost:37355/en/links/</link>
+        <link>//localhost:1313/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/links/</guid>
+        <guid>//localhost:1313/en/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -61,10 +61,10 @@
         </item>
         <item>
         <title>search</title>
-        <link>//localhost:37355/en/search/</link>
+        <link>//localhost:1313/en/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>//localhost:37355/en/search/</guid>
+        <guid>//localhost:1313/en/search/</guid>
         <description></description>
         </item>
         
