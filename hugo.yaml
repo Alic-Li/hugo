@@ -1,4 +1,4 @@
-baseurl: 
+baseurl: polarbear-hub.top
 languageCode: en-us
 theme: stack
 paginate: 3
@@ -204,13 +204,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/Alic-Li
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://x.com/AlicLi711029
           params:
               icon: brand-twitter
 

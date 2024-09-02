@@ -39,6 +39,14 @@
         <guid>//localhost:1313/categories/themes/</guid>
         <description></description>
         </item>
+        <item>
+        <title>Test With Whitespaces</title>
+        <link>//localhost:1313/categories/test-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>//localhost:1313/categories/test-with-whitespaces/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>

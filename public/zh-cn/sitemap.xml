@@ -73,7 +73,7 @@
                 href="//localhost:1313/page/"
                 />
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>//localhost:1313/%E5%BD%92%E6%A1%A3/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -83,7 +83,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/archives/"
+                href="//localhost:1313/%E5%BD%92%E6%A1%A3/"
                 />
   </url><url>
     <loc>//localhost:1313/tags/css/</loc>
@@ -227,6 +227,58 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="//localhost:1313/tags/shortcodes/"
+                />
+  </url><url>
+    <loc>//localhost:1313/p/placeholder-text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/p/placeholder-text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="//localhost:1313/p/placeholder-text/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/tag-with-whitespaces/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/tag-with-whitespaces/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="//localhost:1313/tags/tag-with-whitespaces/"
+                />
+  </url><url>
+    <loc>//localhost:1313/categories/test-with-whitespaces/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/categories/test-with-whitespaces/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="//localhost:1313/categories/test-with-whitespaces/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/text/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/en/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="//localhost:1313/tags/text/"
                 />
   </url><url>
     <loc>//localhost:1313/p/math-typesetting/</loc>
