@@ -1,4 +1,4 @@
-baseurl: polarbear-hub.top
+baseurl: "/"
 languageCode: en-us
 theme: stack
 paginate: 3
@@ -72,7 +72,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: utterances
 
         disqusjs:
             shortname:
