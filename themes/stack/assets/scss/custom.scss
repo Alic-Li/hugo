@@ -1,5 +1,4 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
-//  ~\blog\assets\scss\custom.scss
 
 // 页面基本配色
 :root {
@@ -17,17 +16,6 @@
   --code-background-color: #f8f8f8;
   // 行内代码前景色
   --code-text-color: #e96900;
-  // 暗色模式下样式
-  &[data-scheme="dark"] {
-    // 行内代码背景色
-    --code-background-color: #ff6d1b17;
-    // 行内代码前景色
-    --code-text-color: #e96900;
-    // 暗黑模式下背景色
-    --body-background: #000;
-    // 暗黑模式下卡片背景色
-    --card-background: hsl(225 13% 8% / 1);
-  }
 }
 //------------------------------------------------------
 // 修复引用块内容窄页面显示问题
