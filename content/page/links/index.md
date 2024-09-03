@@ -1,37 +1,19 @@
 ---
 title: 链接
+
+description: 这里面放了一些链接 🥰
+
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+    website: https://github.com/alic-li
+    image: https://avatars.githubusercontent.com/u/105795983?s=400&u=ab5e0acc495500fbb0abacf22bde039f92657be9&v=4
+    
 menu:
     main: 
         weight: -50
         params:
             icon: link
 
-comments: false
+comments: True
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.

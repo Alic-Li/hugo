@@ -7,44 +7,44 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Alic li</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Test</title>
-        <link>//localhost:1313/categories/test/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 03 Sep 2024 10:02:38 +0800</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AMD</title>
+        <link>//localhost:1313/categories/amd/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
         
-        <guid>//localhost:1313/categories/test/</guid>
-        <description>&lt;img src="//localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
-        </item>
-        <item>
-        <title>测试</title>
-        <link>//localhost:1313/categories/%E6%B5%8B%E8%AF%95/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <guid>//localhost:1313/categories/amd/</guid>
         <description></description>
         </item>
         <item>
-        <title>Syntax</title>
-        <link>//localhost:1313/categories/syntax/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Pytorch</title>
+        <link>//localhost:1313/categories/pytorch/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
         
-        <guid>//localhost:1313/categories/syntax/</guid>
+        <guid>//localhost:1313/categories/pytorch/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>//localhost:1313/categories/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Radeon</title>
+        <link>//localhost:1313/categories/radeon/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
         
-        <guid>//localhost:1313/categories/themes/</guid>
+        <guid>//localhost:1313/categories/radeon/</guid>
         <description></description>
         </item>
         <item>
-        <title>Test With Whitespaces</title>
-        <link>//localhost:1313/categories/test-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <title>ROCm</title>
+        <link>//localhost:1313/categories/rocm/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
         
-        <guid>//localhost:1313/categories/test-with-whitespaces/</guid>
+        <guid>//localhost:1313/categories/rocm/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>RVC</title>
+        <link>//localhost:1313/categories/rvc/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
+        
+        <guid>//localhost:1313/categories/rvc/</guid>
         <description></description>
         </item>
         

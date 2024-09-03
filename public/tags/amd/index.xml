@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AMD on Alic-Li&#39;s Blog</title>
+        <link>//localhost:1313/tags/amd/</link>
+        <description>Recent content in AMD on Alic-Li&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Alic li</copyright>
+        <lastBuildDate>Tue, 03 Sep 2024 10:02:38 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/amd/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AMD Rocm RVC 部署视频 😋</title>
+        <link>//localhost:1313/p/amd-rocm-rvc-%E9%83%A8%E7%BD%B2%E8%A7%86%E9%A2%91/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
+        
+        <guid>//localhost:1313/p/amd-rocm-rvc-%E9%83%A8%E7%BD%B2%E8%A7%86%E9%A2%91/</guid>
+        <description>&lt;img src="//localhost:1313/p/amd-rocm-rvc-%E9%83%A8%E7%BD%B2%E8%A7%86%E9%A2%91/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post AMD Rocm RVC 部署视频 😋" /&gt;&lt;h2 id=&#34;amd-rocm-rvc-部署视频-&#34;&gt;AMD Rocm RVC 部署视频 ✨
+&lt;/h2&gt;&lt;h3 id=&#34;这个视频可能有点老了我的第一个纯技术视频有问题麻烦评论区问谢啦-&#34;&gt;这个视频可能有点老了，我的第一个纯技术视频，有问题麻烦评论区问，谢啦~ 🌈
+&lt;/h3&gt;&lt;h4 id=&#34;part-1&#34;&gt;Part 1
+&lt;/h4&gt;&lt;iframe src=&#34;//player.bilibili.com/player.html?isOutside=true&amp;aid=451402500&amp;bvid=BV1cj411E7y2&amp;cid=1344387358&amp;p=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;h4 id=&#34;part-2&#34;&gt;Part 2
+&lt;/h4&gt;&lt;iframe src=&#34;//player.bilibili.com/player.html?isOutside=true&amp;aid=493994735&amp;bvid=BV1uN41177Pj&amp;cid=1344691619&amp;p=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

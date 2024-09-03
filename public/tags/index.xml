@@ -7,76 +7,44 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Alic li</copyright>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Css</title>
-        <link>//localhost:1313/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <lastBuildDate>Tue, 03 Sep 2024 10:02:38 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AMD</title>
+        <link>//localhost:1313/tags/amd/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
         
-        <guid>//localhost:1313/tags/css/</guid>
+        <guid>//localhost:1313/tags/amd/</guid>
         <description></description>
         </item>
         <item>
-        <title>Html</title>
-        <link>//localhost:1313/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Pytorch</title>
+        <link>//localhost:1313/tags/pytorch/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
         
-        <guid>//localhost:1313/tags/html/</guid>
+        <guid>//localhost:1313/tags/pytorch/</guid>
         <description></description>
         </item>
         <item>
-        <title>Markdown</title>
-        <link>//localhost:1313/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Radeon</title>
+        <link>//localhost:1313/tags/radeon/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
         
-        <guid>//localhost:1313/tags/markdown/</guid>
+        <guid>//localhost:1313/tags/radeon/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>//localhost:1313/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>ROCm</title>
+        <link>//localhost:1313/tags/rocm/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
         
-        <guid>//localhost:1313/tags/themes/</guid>
+        <guid>//localhost:1313/tags/rocm/</guid>
         <description></description>
         </item>
         <item>
-        <title>Privacy</title>
-        <link>//localhost:1313/tags/privacy/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <title>RVC</title>
+        <link>//localhost:1313/tags/rvc/</link>
+        <pubDate>Tue, 03 Sep 2024 10:02:38 +0800</pubDate>
         
-        <guid>//localhost:1313/tags/privacy/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Shortcodes</title>
-        <link>//localhost:1313/tags/shortcodes/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/tags/shortcodes/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Tag With Whitespaces</title>
-        <link>//localhost:1313/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/tags/tag-with-whitespaces/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Text</title>
-        <link>//localhost:1313/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/tags/text/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Emoji</title>
-        <link>//localhost:1313/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>//localhost:1313/tags/emoji/</guid>
+        <guid>//localhost:1313/tags/rvc/</guid>
         <description></description>
         </item>
         
