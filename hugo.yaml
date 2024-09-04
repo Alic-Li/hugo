@@ -1,7 +1,7 @@
 baseurl: "/"
 languageCode: en-us
 theme: stack
-paginate: 3
+pagination.pagerSize: 3
 title: Alic Li
 copyright: Alic li
 
@@ -47,7 +47,7 @@ params:
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2024
         customText:
 
     dateFormat:
@@ -63,7 +63,7 @@ params:
             src: img/lisa.png
     
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
