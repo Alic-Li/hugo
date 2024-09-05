@@ -20,7 +20,7 @@ tags = [
 image = "8845h.png"
 +++
 
-### Test platform 🐔MECHREVO yilong 15pro 8845h with Radeon-780m integrated graphics🚀, 32Gddr5-5600mhz memory, RTX4060-laptop (Disabled by me in Bios, Because of Nvidia Fuck You!!!)😝
+### Test platform 🐔Mechanical Revolution Pterosaur 15pro 8845h with Radeon-780m integrated graphics🚀, 32Gddr5-5600mhz memory, RTX4060-laptop (Disabled by me in Bios, Because of Nvidia Fuck You!!!)😝
 - Because I just graduated from high school this year, I bought an all-around laptop. I was originally a loyal Radeon user, but because AMD does not adapt the laptop's mobile graphics card to the mainstream machine learning framework, my Radeon780M can perfectly install ROCm6.1 on Ubuntu, but!!! The ROCm software stack can be called normally, but pytorch said that this core is not supported by me at all. . . (As shown below) So I bought Uncle Huang's 4060 laptop, and found that Uncle Huang's card is really useful~😋![](Image_1725505729569.jpg)
 
 ### This official hip test example can run perfectly, and even the core can be identified, which is extremely abstract😂
