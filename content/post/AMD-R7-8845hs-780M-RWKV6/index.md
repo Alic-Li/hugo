@@ -28,7 +28,7 @@ image = "8845h.png"
 
 ### 那就让我们开始吧！！！🤗
 - 作者仓库地址https://github.com/Ai00-X/ai00_server/
-- 运行的话不用装torch也能跑，应为调用的是Vulka的API，所以说是台电脑是张显卡基本上都能跑，所以说让我们为Vulkan组织和RWKV社区欢呼吧！！！🎉还有别忘了我的Mozilla组织🦊
+- 运行的话不用装torch也能跑，调用的是Vulkan的API，所以说是台电脑是张显卡基本上都能跑，所以说让我们为Vulkan组织和RWKV社区欢呼吧！！！🎉还有别忘了我的Mozilla组织🦊
 - 安装过程只需要下载项目仓库的对应操作系统的Releases即可，也可以自行编译来启动😊
 - 文档写的很棒这里我就不多赘述了❤️
 - 直接再该项目文件夹下运行即可👀
@@ -47,7 +47,7 @@ image = "8845h.png"
 
 1. [下载pth模型](https://huggingface.co/BlinkDL)
 
-2. 克隆或下载本仓库下[convert2ai00.py](./convert2ai00.py)或[convert_safetensors.py](./convert_safetensors.py)程序，并安装相应的依赖库（`torch`和`safetensors`）
+2. 克隆或下载本仓库下```convert2ai00.py```或```convert_safetensors.py```程序，并安装相应的依赖库（`torch`和`safetensors`）
 
 3. 运行上述程序，并指定输入输出路径
 
@@ -61,7 +61,7 @@ image = "8845h.png"
     $ ./web-rwkv-converter --input /path/to/model.pth --output /path/to/model.st
     ```
 
-5. 根据上文步骤，将转换所得的`.st`模型文件放在`assets/models/`路径下，并修改  [`assets/Config.toml`](./assets/Config.toml) 中的模型路径
+5. 根据上文步骤，将转换所得的`.st`模型文件放在`assets/models/`路径下，并修改  `assets/Config.toml` 中的模型路径
 
 ### 模型路径💾
 可以修改 ```./assets/configs/Config.toml```里面的模型配置，包括模型路径、量化层数等

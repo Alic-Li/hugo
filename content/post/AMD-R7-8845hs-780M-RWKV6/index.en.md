@@ -28,7 +28,7 @@ image = "8845h.png"
 
 ### Let's get started! ! ! 🤗
 - Author's warehouse address https://github.com/Ai00-X/ai00_server/
-- If you run it, you can run it without installing torch, because it calls Vulka's API, so it can basically run on any computer or graphics card, so let's cheer for the Vulkan organization and the RWKV community! ! ! 🎉 And don't forget my Mozilla organization🦊
+- If you run it, you can run it without installing torch, because it use Vulkan's API, so it can basically run on any computer or graphics card, so let's cheer for the Vulkan organization and the RWKV community! ! ! 🎉 And don't forget my Mozilla organization🦊
 - During the installation process, you only need to download the Releases of the corresponding operating system from the project repository, or you can compile it yourself to start it😊
 - The documentation is very well written, so I won't go into details here❤️
 - Just run it in the project folder👀
@@ -47,7 +47,7 @@ This project currently only supports Safetensors models with the `.st` suffix. M
 
 1. [Download the pth model](https://huggingface.co/BlinkDL)
 
-2. Clone or download the [convert2ai00.py](./convert2ai00.py) or [convert_safetensors.py](./convert_safetensors.py) program in this repository and install the corresponding dependent libraries (`torch` and `safetensors`)
+2. Clone or download the ```convert2ai00.py```  or  ```convert_safetensors.py``` program in this repository and install the corresponding dependent libraries (`torch` and `safetensors`)
 
 3. Run the above program and specify the input and output paths
 
@@ -61,7 +61,7 @@ $ python convert_safetensors.py --input ./filename.pth --output ./filename.st
 $ ./web-rwkv-converter --input /path/to/model.pth --output /path/to/model.st
 ```
 
-5. According to the above steps, put the converted `.st` model file in the `assets/models/` path and modify the model path in [`assets/Config.toml`](./assets/Config.toml)
+5. According to the above steps, put the converted `.st` model file in the `assets/models/` path and modify the model path in `assets/Config.toml`
 
 ### Model path💾
 You can modify the model configuration in ```./assets/configs/Config.toml```, including model path, number of quantization layers, etc.
