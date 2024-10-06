@@ -215,6 +215,25 @@ menu:
           url: https://x.com/AlicLi711029
           params:
               icon: brand-twitter
+        
+        - identifier: bilibili
+          name: Bilibili
+          url: https://space.bilibili.com/546839387
+          params:
+              icon: bilibili
+        
+        - identifier: QQ-mail
+          name: qq-mail
+          url: mailto:2591709191@qq.com
+          params:
+              icon: mail  
+        
+        - identifier: QQ-zone
+          name: qq-zone
+          url: https://user.qzone.qq.com/2591709191/main
+          params:
+              icon: qzone
+            
 
 related:
     includeNewer: true
