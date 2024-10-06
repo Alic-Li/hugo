@@ -10,6 +10,11 @@ links:
     description: 被你改变的那部分我，代替了你永远地与我站在一起。
     website: https://blog.no22.top
     image: https://avatars.githubusercontent.com/u/132265925?v=4
+  
+  - title: 狄鲤 Blog
+    description: 一个分享自己杂七杂八知识的网站
+    website: https://stilig.me/
+    image: https://stilig.me/images/logo_ico.png
     
   - title: GitHub
     description: GitHub is the world's largest software development platform.
