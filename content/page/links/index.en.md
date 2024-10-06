@@ -7,7 +7,7 @@ links:
   - title: No22's Blog
     description: 被你改变的那部分我，代替了你永远地与我站在一起。
     website: https://blog.no22.top
-    image: https://blog.no22.top/pic/%e5%a4%b4%e5%83%8f.png
+    image: https://avatars.githubusercontent.com/u/132265925?v=4
     
   - title: GitHub
     description: GitHub is the world's largest software development platform.
