@@ -33,8 +33,8 @@ image = "8845h.png"
 - 文档写的很棒这里我就不多赘述了❤️
 - 直接再该项目文件夹下运行即可👀
   ```bash     
-    ./ai00_rwkv_server
-    ```
+    ./ai00_rwkv_server 
+  ```
 - 打开浏览器进入http://localhost:65530就可以进入管理webui面板了
 ### 参数设置🤔
 - 如图所示：我们选14b的safe tensor格式的模型文件，如果是.pth的模型文件则需要转换
